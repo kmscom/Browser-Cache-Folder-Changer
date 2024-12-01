@@ -1,4 +1,4 @@
-# Copyright (C) 2024 Moon Sang, Kwon
+# Copyright (C) 2024 Moon Sang, Kwon (browsercachefolderchanger@gmail.com)
 #
 # All rights reserved.
 #
