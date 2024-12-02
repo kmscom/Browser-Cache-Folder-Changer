@@ -116,7 +116,7 @@ We can check if the browser's cache folder is redirected successfully.
     - ![Cache files](image/3.%20main_9.png)
 
 #### 5️⃣ Restore cache folder
-If you want to undo the browser's cache folder change, then click the "Restore Cache Folder" button.
+If you want to undo the browser's cache folder change, then click the "Restore Cache Folder" button. Note that you should select the browser 1st before clicking the "Restore Cache Folder" button.
 
 
 ### 6️⃣ RAM Drive Applications
