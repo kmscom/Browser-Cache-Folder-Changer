@@ -9,7 +9,9 @@ Download the install file at the following link.
 ### Install
 Run web\_browser\_cache\_folder\_changer\_setup.exe.
 Following window will appear.
+
 ![Select Setup Install Mode](image/1.%20install_1.png)
+
 Choose one depending on your favor.
 
 Then, following window will appear. As this program needs "privilege permission" to create a symbolic link file, you should choose "Yes".
@@ -17,13 +19,18 @@ Then, following window will appear. As this program needs "privilege permission"
 
 Following sequence of window will appear.
 ![Select Setup Language](image/1.%20install_3.png)
+
 ![License Agreement](image/1.%20install_4.png)
+
 ![Select Destination Location](image/1.%20install_5.png)
+
 ![Select Additional Tasks](image/1.%20install_6.png)
+
 ![Ready to Install](image/1.%20install_7.png)
 
 At the following step, DON'T CHECK the 'Launch Web Browser Cache Folder Changer' checkbox.
 ![Completing the Web Browser Cache Folder Changer Setup Wizard](image/1.%20install_8.png)
+
 If you check and run the program at this step, following error will happen. This is because Browser Cache Folder Changer needs "privilege permission".
 ![Unable to execute file.](image/1.%20install_9.png)
 
@@ -33,6 +40,7 @@ Find the icon at the desktop and execute the program!
 
 When you run the program, following window will appear.
 ![User Account Control](image/1.%20install_2.png)
+
 As mentioned earlyer, this is because this program needs "privilege permission" to creat a symbolic link file. Choose "Yes" to continue.
 
 Following window will appear.
@@ -41,10 +49,12 @@ Following window will appear.
 ### Main functions
 Browser Cache Folder Changer creates a symbolic link for a browser cache folder.
 ![Browser Cache Folder Changer with Number](image/3.%20main_2.png)
+
 Here is a typical use-case scenario.
 
 #### 1️⃣ Select a web browser. Here, we choose "Microsoft Edge". Following dialog will appear.
 ![Select User Profile](image/3.%20main_3.png)
+
 Web browser's cache folder can be different based on the profile name.
 If you don't know the profile name, then choose "Default".
 If you know the profile name, then choose
@@ -55,6 +65,7 @@ If you know the profile name, then choose
 #### 2️⃣ Select the browser's current cache folder
 The default cache foldr path will be available at the edit control. If it does not match, click the "Select the Browser's Default Cache Folder" button and select one.
 ![Select the Default Cache Folder](image/3.%20main_4.png)
+
 The current cache folder of "Microsoft Edge" may not exist if you had never executed the Edge browser. In that case, run the browser and quit. Then, retry.
 
 #### 3️⃣ Select the RAM Drive web cache top folder
@@ -66,6 +77,7 @@ Click the "Select a RAM Drive Folder (ex: R:\webCacheTop)" button and choose one
 
 Now, the Browser's New Cache Folder will be specified as followings.
 ![New Cache Folder](image/3.%20main_6.png)
+
 You can see that "R:\webCacheTopFolder\edgeCache" is specified.
 
 #### 4️⃣ Redirect cache folder
@@ -77,10 +89,12 @@ R:\webCacheTop\edgeCache
 
 If you click the "Redirect Cache Folder" button, you may meet the following error window.
 ![Process Check Error](image/3.%20main_7.png)
+
 It means that the Microsoft Edge browser is running. If the browser process is running, we cannot change the browser's cache folder path. You should quit the browser and tr-try.
 
 If you succeed in redirecting the browser's cache folder to a new cache folder path, then following window will appear.
 ![Redirect Cache Folder Success](image/3.%20main_8.png)
+
 Also, the new cache folder will be appeared in the explorer.
 
 #### Check if the browser cache folder is redirected successfully
