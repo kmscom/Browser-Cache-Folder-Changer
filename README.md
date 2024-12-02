@@ -13,7 +13,6 @@ By redirecting the cache folder to a RAM drive,
 
 If your RAM drive supports data backup and restoration through the power cycle, the cache data will be persistent. Otherwise, the cache data will be lost. Even when the RAM drive supports data backup and restore through the power cycle, the browser cache data can be lost if a sudden power off happens.
 
-  
 Here are some famous RAM drive applications.
 *   [ImDisk](https://sourceforge.net/projects/imdisk-toolkit/)
 *   [AMD Radeon(TM) RAMDisk](https://www.radeonramdisk.com/software_downloads.php)
@@ -29,3 +28,4 @@ This application supports the following web browsers.
 This program creates a symbolic link for the browser's cache folder to a new path, which is usually under a RAM drive. To create a symbolic link, an administrator privilege is required.
 
 Use this application at your own risk. This application DOES NOT SUPPORT any issue caused by this program.
+- [Browser Cache Folder Changer User Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide.md)
