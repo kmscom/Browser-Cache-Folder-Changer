@@ -43,11 +43,19 @@ You may change the size of DRAM disk size as you want.
 
 ![](imdisk/8.imdisk_config_one.png)
 
-3) Set the 'Advanced' tab as follows.
+3A) Set the 'Advanced' tab as follows (recommended).
 
 ![](imdisk/9.imdisk_config_two_A.png)
 
 In this case, RAM disk is mapped to "R:\" drive.
+
+3B) Set the 'Advanced' tab as follows.
+* Create "C:\ImDiskRoot" folder.
+* Check 'Use Mount Point:' checkbox and select "C:\ImDiskRoot" folder.
+
+![](imdisk/9.imdisk_config_two_B.png)
+
+![](imdisk/9.imdisk_config_two_C.png)
 
 4) Set the 'Data' tab as follows.
 Create "C:\ImDiskImage" folder and select it as follows.
