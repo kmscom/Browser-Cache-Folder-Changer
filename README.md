@@ -3,10 +3,10 @@
 This repository distributes a Windows application, using which we can change the cache folder path of popular web browsers.
 *   [web\_browser\_cache\_folder\_changer\_setup.exe](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/web_browser_cache_folder_changer_setup.exe)
 
-This program redirects the browser's cache folder to a new folder, which is usually located at the RAM drive. For the technical details, refer following link.
+This program redirects the browser's cache folder to a new folder, which is usually located at the RAM disk drive. For the technical details, refer following link.
 *   [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder)
 
-By redirecting the cache folder to a RAM drive,
+By redirecting the cache folder to a RAM disk drive,
 
 *   You can run the web browser faster.
 *   You can reduce IO on your disk. If you are using an SSD, this may help increasing the lifetime of it.
@@ -26,7 +26,7 @@ This application supports the following web browsers.
 *   [Opera](https://www.opera.com/)
 *   [Vivaldi](https://vivaldi.com/)
 
-This program creates a symbolic link for the browser's cache folder to a new path, which is usually under a RAM drive. To create a symbolic link, an administrator privilege is required.
+This program creates a symbolic link for the browser's cache folder to a new path, which is usually under a RAM disk drive. To create a symbolic link, an administrator privilege is required.
 
 Use this application at your own risk. This application DOES NOT SUPPORT any issue caused by this program.
 - [Browser Cache Folder Changer User Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide.md)
