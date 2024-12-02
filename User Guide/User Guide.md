@@ -9,8 +9,9 @@ Download the install file at the following link.
 ### Install
 Run web\_browser\_cache\_folder\_changer\_setup.exe.
 Following window will appear.
+
 ![Select Setup Install Mode](image/1.%20install_1.png)
-Choose depending on your favor.
+Choose one depending on your favor.
 
 Then, following window will appear. As this program needs "privilege permission" to create a symbolic link file, you should choose "Yes".
 ![User Account Control](image/1.%20install_2.png)
