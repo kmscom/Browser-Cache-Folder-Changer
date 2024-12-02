@@ -9,7 +9,6 @@ Download the install file at the following link.
 ### Install
 Run web\_browser\_cache\_folder\_changer\_setup.exe.
 Following window will appear.
-
 ![Select Setup Install Mode](image/1.%20install_1.png)
 Choose one depending on your favor.
 
