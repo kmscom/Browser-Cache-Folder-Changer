@@ -13,9 +13,10 @@ By redirecting the cache folder to a RAM drive,
 
 If your RAM drive supports data backup and restoration through the power cycle, the cache data will be persistent. Otherwise, the cache data will be lost. Even when the RAM drive supports data backup and restore through the power cycle, the browser cache data can be lost if a sudden power off happens.
 
-Here are some famous RAM drive applications.
+Here are some famous RAM disk applications.
 *   [ImDisk](https://sourceforge.net/projects/imdisk-toolkit/)
 *   [AMD Radeon(TM) RAMDisk](https://www.radeonramdisk.com/software_downloads.php)
+
 
 This application supports the following web browsers.
 *   [Brave](https://brave.com/)
