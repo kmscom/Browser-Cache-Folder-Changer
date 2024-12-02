@@ -1,5 +1,8 @@
 ## Web Browser Cache Folder Changer User Guide
 
+Before installing Browser Cache Folder Changer, install ImDisk Toolkit 1st.
+- [ImDisk Toolkit Install Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/ImDisk%20Install%20Guide.md)
+
 ### Download install package
 
 Download the install file at the following link.
