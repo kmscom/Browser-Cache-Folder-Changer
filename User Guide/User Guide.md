@@ -17,7 +17,7 @@ Following window will appear.
 
 Choose one depending on your favor.
 
-Then, following window will appear. As this program needs "privilege permission" to create a symbolic link file, you should choose "Yes".
+Then, following window will appear. As this program needs "privilege permission" to create a symbolic link file, you should choose "Yes" to continue.
 ![User Account Control](image/1.%20install_2.png)
 
 Following sequence of windows will appear.
