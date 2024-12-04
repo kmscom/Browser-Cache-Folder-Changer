@@ -105,7 +105,8 @@ If you click the "Redirect Cache Folder" button, you may meet the following erro
 
 ![Process Check Error](image/3.%20main_7.png)
 
-It means that the Microsoft Edge browser is running. If the browser process is running, we cannot change the browser's cache folder path. You should quit the browser and tr-try.
+It means that the Microsoft Edge browser is running. If the browser process is running, we cannot change the browser's cache folder path. You should quit the browser and tr-try. Press Ctrl-Alt-Del keys and run the Windows Task Manager. Find Microsoft Edge proceses and End task.
+![Process terminate](image/3.%20main_7_1.png)
 
 If you succeed in redirecting the browser's cache folder to a new cache folder path, then following window will appear.
 
