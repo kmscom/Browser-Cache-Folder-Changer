@@ -35,3 +35,6 @@ Use this application on your own risk. This application DOES NOT SUPPORT any iss
 # Relerated sites
 You can find the related information at the following sites.
 * [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder/1863614#1863614)
+* [How to Change the Google Chrome Cache Location](https://www.simplehelp.net/2010/11/16/how-to-change-the-google-chrome-cache-location/)
+* [How to Change Google Chrome Cache Location in Windows](https://www.windowsdigitals.com/how-to-change-google-chrome-cache-location-in-windows-11-10/)
+* [How to Change the Google Chrome Cache Location](https://www.shareus.com/web/how-to-change-the-google-chrome-cache-location.html)
