@@ -30,3 +30,8 @@ This program creates a symbolic link for the browser's cache folder to a new pat
 
 Use this application on your own risk. This application DOES NOT SUPPORT any issue caused by this program.
 - [Browser Cache Folder Changer User Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide.md)
+
+
+# Relerated sites
+You can find the related information at the following sites.
+* [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder/1863614#1863614)
