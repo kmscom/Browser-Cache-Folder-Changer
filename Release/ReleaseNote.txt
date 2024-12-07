@@ -1,0 +1,2 @@
+- 2024.12.07
+* Add support of Brave-Beta and Brave-Nightly build.
