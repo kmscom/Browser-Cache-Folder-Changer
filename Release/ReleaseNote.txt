@@ -1,3 +1,8 @@
+- 2024.12.09
+* Support additional browsers
+: Brave BETA/Nightly, Chrome BETA/Canary, Edge BETA/DEV, Opera GX
+* Checkbox for visiting browser site
+
 - 2024.12.08
 * Add process termination function.
 : If the browser process is running and the user requests to create a symbolic link,
