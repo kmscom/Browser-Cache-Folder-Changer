@@ -2,6 +2,7 @@
 * Support additional browsers
 : Brave BETA/Nightly, Chrome BETA/Canary, Edge BETA/DEV, Opera GX
 * Checkbox for visiting browser site
+* Setup file is code signed
 
 - 2024.12.08
 * Add process termination function.
