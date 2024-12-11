@@ -1,3 +1,7 @@
+- 2024.12.11
+* Add browser execution function
+: When the browser execution checkbox is checked, the browser application is executed when the browser is installed and available.
+
 - 2024.12.09
 * Support additional browsers
 : Brave BETA/Nightly, Chrome BETA/Canary, Edge BETA/DEV, Opera GX
