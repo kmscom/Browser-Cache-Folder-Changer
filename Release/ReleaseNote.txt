@@ -1,3 +1,8 @@
+- 2024.12.12
+* Add Opera DEV
+* Add User Guide button
+* Add color to Open Log button
+
 - 2024.12.11
 * Add browser execution function
 : When the browser execution checkbox is checked, the browser application is executed when the browser is installed and available.
