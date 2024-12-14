@@ -1,3 +1,6 @@
+- 2024.12.14
+* Optimize build option for faster execution
+
 - 2024.12.12
 * Add Opera DEV
 * Add User Guide button
