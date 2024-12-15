@@ -1,3 +1,6 @@
+- 2024.12.15.1
+* Support Epic browser
+
 - 2024.12.14
 * Optimize build option for faster execution
 
