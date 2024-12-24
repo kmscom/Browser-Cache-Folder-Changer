@@ -26,7 +26,7 @@ Web Browser Cache Folder Changer 프로그램의 설치 파일은 아래 링크�
 
 4) 설치 언어 선택 윈도우가 나타난다. 
     - 한국어나 영어를 선택하고 "확인" 버튼을 누른다.
-    
+
     ![Select Setup Language](image/1.%20install_3_kr.png)
 
 5) 사용권 계약 윈도우가 나타난다.
@@ -36,6 +36,7 @@ Web Browser Cache Folder Changer 프로그램의 설치 파일은 아래 링크�
 
 6) 프로그램을 설치할 대상 위치 폴더를 선택하고 "다음(N)" 버튼을 누른다.
     - 디폴트 위치를 보통 사용한다.
+
     ![Select Destination Location](image/1.%20install_5_kr.png)
 
 7) "바탕 화면에 바로가기 만들기(D)" 체크박스 옵션을 선택하고 "다음(N)" 버튼을 누른다.
@@ -54,14 +55,17 @@ Web Browser Cache Folder Changer 프로그램의 설치 파일은 아래 링크�
 
 ### 프로그램 실행하기
 1) 바탕화면에 있는 아래 프로그램 아이콘을 더블클릭 해서 실행한다.
+
     ![Web Browser Cache Folder Changer](image/2.%20execute.png)
 
 2) 프로그램을 실행하면 다음 윈도우가 나타난다.
     - 이 프로그램은 폴더에 대한 symbolic link를 생성하기 위해 privilege permission이 필요하다.
     - "예" 버튼을 눌러 실행을 계속한다.
+
     ![User Account Control](image/2.1%20execute_kr.png)
 
 3) 다음과 같은 메인 프로그램 윈도우가 나타난다.
+
     ![Browser Cache Folder Changer](image/3.%20main_1.png)
 
 ### 주요 기능
@@ -75,6 +79,7 @@ Browser Cache Folder Changer 프로그램은 웹 브라우져의 캐쉬 폴더�
 #### 1️⃣ 웹 브라우져를 선택한다.
 - 여기에서는 "Microsoft Edge"를 선택했다.
 - 다음 윈도우가 나타난다.
+
     ![Select User Profile](image/3.%20main_3_kr.png)
 
     웹 브라우져의 캐쉬 폴더는 사용하는 프로파일의 이름에 따라 다를 수 있다.
