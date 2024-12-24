@@ -26,6 +26,7 @@ Web Browser Cache Folder Changer 프로그램의 설치 파일은 아래 링크�
 
 4) 설치 언어 선택 윈도우가 나타난다. 
     - 한국어나 영어를 선택하고 "확인" 버튼을 누른다.
+    
     ![Select Setup Language](image/1.%20install_3_kr.png)
 
 5) 사용권 계약 윈도우가 나타난다.
