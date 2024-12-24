@@ -29,6 +29,7 @@ This program creates a symbolic link for the browser's cache folder to a new pat
 
 Use this application at your own risk. This application DOES NOT SUPPORT any issue caused by this program.
 - [Browser Cache Folder Changer User Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide.md)
+- [Browser Cache Folder Changer 사용자 가이드](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide%20-%20KOR.md)
 
 # Relerated sites
 You can find the related information at the following sites.
