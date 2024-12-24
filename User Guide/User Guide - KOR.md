@@ -17,6 +17,7 @@ Web Browser Cache Folder Changer 프로그램의 설치 파일은 아래 링크�
 2) 다음과 같은 메뉴가 나타날 것이다.
     - 사용자의 상황에 따라 본인만 사용할 것인지, 모든 사용자용으로 설치할지 선택한다.
     ![Select Setup Install Mode](image/1.%20install_1_kr.png)
+
     여기서는 "모든 사용자용으로 설치"하는 사례를 설명한다.
 
 3) 모든 사용자용으로 설치하는 경우, 다음 윈도우가 나타난다.
@@ -86,6 +87,7 @@ Browser Cache Folder Changer 프로그램은 웹 브라우져의 캐쉬 폴더�
     - "Open Folder" 버튼을 눌러서 해당 폴더가 잘 선택되었는지 확인할 수 있다.
     - 웹 브라우져를 실행하며 이 폴더에 캐쉬 파일이 생성되고 있는지 확인해 보자.
 - ![Select the Default Cache Folder](image/3.%20main_4.png)
+
 - "Microsoft Edge" 웹 브라우져를 실행한 적이 없다면 기본 캐쉬 폴더가 존재하지 않을 수도 있다.
 
 #### 3️⃣ 웹 캐쉬 파일을 저장할 램 드라이브의 폴더 위치를 지정한다.
