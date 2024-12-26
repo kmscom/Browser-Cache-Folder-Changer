@@ -22,7 +22,9 @@ This application supports the following web browsers.
 *   [Google Chrome](https://www.google.com/)
 *   [Microsoft Edge](https://www.microsoft.com/edge/)
 *   [Naver Whale](https://whale.naver.com/)
+*   [Epic Browser](https://epicbrowser.com/)
 *   [Opera](https://www.opera.com/)
+*   [Opera GX](https://www.opera.com/gx)
 *   [Vivaldi](https://vivaldi.com/)
 
 This program creates a symbolic link for the browser's cache folder to a new path, which is usually under a RAM disk drive. To create a symbolic link, an administrator privilege is required.
