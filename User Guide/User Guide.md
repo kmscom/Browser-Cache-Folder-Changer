@@ -24,6 +24,7 @@ Download the install file at the following link.
 
 4. Window for choosing installation language will appear.
 - Choose English or Korean and click "OK" button
+
   ![Select Setup Language](image/1.%20install_3.png)
 
 5. Window for Copyright will appear.
@@ -34,6 +35,7 @@ Download the install file at the following link.
 6. Choose a destination folder in which to install this application.
 - Use the default location usually.
 - Click "Next" button to continue.
+
 ![Select Destination Location](image/1.%20install_5.png)
 
 7. Choose "Create a desktop shortcut" checkbox and click "Next" button to continue.
@@ -46,8 +48,10 @@ Download the install file at the following link.
 - DON'T CHECK the 'Launch Web Browser Cache Folder Changer' checkbox.
 
 ![Completing the Web Browser Cache Folder Changer Setup Wizard](image/1.%20install_8.png)
+
 - If you check and run the program at this step, following error will happen. This is because Browser Cache Folder Changer needs "privilege permission".
     - In this case, just click "OK" and ignore this window.
+    
 ![Unable to execute file.](image/1.%20install_9.png)
 
 ### Run the program
