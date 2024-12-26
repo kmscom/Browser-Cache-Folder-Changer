@@ -10,48 +10,57 @@ Download the install file at the following link.
 *   [web\_browser\_cache\_folder\_changer\_setup.exe](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/web_browser_cache_folder_changer_setup.exe)
 
 ### Install
-Run web\_browser\_cache\_folder\_changer\_setup.exe.
-Following window will appear.
+1. Run **web\_browser\_cache\_folder\_changer\_setup.exe**.
+2. Following window will appear.
 
-![Select Setup Install Mode](image/1.%20install_1.png)
+    ![Select Setup Install Mode](image/1.%20install_1.png)
 
-Choose one depending on your favor.
+- Choose one depending on your favor. Usually "Install for me only (recommended)" is recommended.
+- Here is an example of choosing "Install for all users". 
 
-Then, following window will appear. As this program needs "privilege permission" to create a symbolic link file, you should choose "Yes" to continue.
+3. Following window will appear.
+- This program needs "privilege permission" to create a folder for all users. You should choose "Yes" to continue.
 ![User Account Control](image/1.%20install_2.png)
 
-Following sequence of windows will appear.
+4. Window for choosing installation language will appear.
+- Choose English or Korean and click "OK" button
+  ![Select Setup Language](image/1.%20install_3.png)
 
-![Select Setup Language](image/1.%20install_3.png)
-
+5. Window for Copyright will appear.
+- This program is free for all users. If you want to distribute this program, you should distribute this copyright together.
+- Click "I accept the agreement" radio button and click "Next" button to continue.
 ![License Agreement](image/1.%20install_4.png)
 
+6. Choose a destination folder in which to install this application.
+- Use the default location usually.
+- Click "Next" button to continue.
 ![Select Destination Location](image/1.%20install_5.png)
 
+7. Choose "Create a desktop shortcut" checkbox and click "Next" button to continue.
 ![Select Additional Tasks](image/1.%20install_6.png)
 
+8. Now you are ready to start installation. Click "Install" button to continue.
 ![Ready to Install](image/1.%20install_7.png)
 
-At the following step, DON'T CHECK the 'Launch Web Browser Cache Folder Changer' checkbox.
+9. After finishing installation, following window will appear finally.
+- DON'T CHECK the 'Launch Web Browser Cache Folder Changer' checkbox.
 
 ![Completing the Web Browser Cache Folder Changer Setup Wizard](image/1.%20install_8.png)
-
-If you check and run the program at this step, following error will happen. This is because Browser Cache Folder Changer needs "privilege permission".
-
+- If you check and run the program at this step, following error will happen. This is because Browser Cache Folder Changer needs "privilege permission".
+    - In this case, just click "OK" and ignore this window.
 ![Unable to execute file.](image/1.%20install_9.png)
 
 ### Run the program
-Find the icon at the desktop and execute the program!
+1. Find the icon at the desktop and execute the program!
 
 ![Web Browser Cache Folder Changer](image/2.%20execute.png)
 
-When you run the program, following window will appear.
+2. When you run the program, following window will appear.
+- As mentioned earlyer, this is because this program needs "privilege permission" to creat a symbolic link file. Click "Yes" to continue.
 
-![User Account Control](image/1.%20install_2.png)
+![User Account Control](image/2.1%20execute.png)
 
-As mentioned earlyer, this is because this program needs "privilege permission" to creat a symbolic link file. Choose "Yes" to continue.
-
-Following window will appear.
+3. Following window will appear.
 
 ![Browser Cache Folder Changer](image/3.%20main_1.png)
 
