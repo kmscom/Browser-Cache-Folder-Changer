@@ -1,3 +1,7 @@
+- 2024.12.26.1
+* Change to store configuration file at the $HOME folder
+    * $HOME\browser_cache_folder_changer.ini
+
 - 2024.12.15.1
 * Support Epic browser
 
