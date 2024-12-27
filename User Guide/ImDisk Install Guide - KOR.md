@@ -33,6 +33,7 @@ ImDisk 툴킷 프로그램은 다음 링크에서 다운로드 받을 수 있다
 ![](imdisk/5.imdisk_complete.png)
 
 - 바탕화면에 다음과 같이 3개의 아이콘이 저장되어 있을 것이다.
+
 ![](imdisk/6.imdisk_desktop.png)
 
 ## 램 디스크 설정하기
