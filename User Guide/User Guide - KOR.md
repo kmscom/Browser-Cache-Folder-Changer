@@ -1,7 +1,7 @@
 ## Web Browser Cache Folder Changer 사용자 가이드
 
 이 프로그램을 사용하려면 ImDisk Toolkit같은 램 드라이브가 설정되어 있어야 한다. 아직 램 드라이브가 설정되어 있지 않다면 아래 가이드를 참고해서 램 드라이브 프로그램을 설치하고, 램 드라이브를 설정한다.
-- [ImDisk Toolkit Install Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/ImDisk%20Install%20Guide.md)
+- [ImDisk Toolkit Install Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/ImDisk%20Install%20Guide - KOR.md)
 
 ### 설치 프로그램 다운로드
 

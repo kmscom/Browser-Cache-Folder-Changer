@@ -1,7 +1,7 @@
 # ImDisk 툴킷 램 디스크 프로그램 설치 가이드
 
 [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/) 프로그램의 설치 가이드이다.
-Windows 10, 11 시스템에서 램 디스크 드라이브를 설치한다.
+Windows 10, 11 시스템에서 램 디스크를 지원한다.
 
 ## 프로그램 다운로드
 
