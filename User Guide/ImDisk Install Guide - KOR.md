@@ -70,13 +70,14 @@ ImDisk 툴킷을 설치한 후에 램 드라이브 설정을 해야 한다.
 - 위와 같이 설정하면 앞으로 "C:\ImDiskRoot\" 폴더 아래에 생성되는 파일은 램 디스크에 저장된다.
 
 4) "Data" 탭을 선택하고, 다음과 같이 설정한다.
+- 경고: 만약 웹 캐쉬 폴더에 저장되는 데이터를 다음 power-cycle에서 보존하고 싶지 않다면 이 단계를 건너 뛴다.
+
 - "C:\ImDiskImage" 폴더를 생성한다.
 - "Load Content from Image File or Folder:" 아래, 우측에 있는 ... 버튼을 눌러서 다음과 같이 선택한다.
 
 ![](imdisk/9.imdisk_config_three_A.png)
 
 체크 박스를 다음과 같이 선택하고, "Synchronize now" 버튼을 클릭한다.
-- 경고: 만약 웹 캐쉬 폴더에 저장되는 데이터를 다음 power-cycle에서 보존하고 싶지 않다면 이 단계를 건너 뛴다.
 
 ![](imdisk/9.imdisk_config_three_B.png)
 
