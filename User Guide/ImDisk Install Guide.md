@@ -58,13 +58,12 @@ In this case, RAM disk is mapped to "R:\" drive.
 ![](imdisk/9.imdisk_config_two_C.png)
 
 4) Set the 'Data' tab as follows.
-- WARNING: if you want the web cache folder files are lost at the power cycle, skip this step.
-
 Create "C:\ImDiskImage" folder and select it as follows.
 
 ![](imdisk/9.imdisk_config_three_A.png)
 
 Check the checkboxes as follows and click "Synchronize now" button.
+- WARNING: if you want the web cache folder files are lost at the power cycle, skip this step.
 
 ![](imdisk/9.imdisk_config_three_B.png)
 
