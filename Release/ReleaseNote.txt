@@ -1,3 +1,6 @@
+- 2024.12.29.1
+* Change "Go for DRAM shopping!" internal site list
+
 - 2024.12.26.1
 * Change to store configuration file at the $HOME folder
     * $HOME\browser_cache_folder_changer.ini
