@@ -1,21 +1,42 @@
 ## Web Browser Cache Folder Changer
 
-This repository distributes a Windows application that allows us to change the cache folder path of popular web browsers.
+Web browser cache is a mechanism that temporarily stores web page resources (HTML, CSS, JavaScript, images, etc.) on a user's computer to use stored files without re-downloading them from the server when revisiting the same web page. This improves web page loading speed, reduces network traffic, and reduces server load.
+
+![](assets/20241228_204329_image.png)
+
+Here is how the web browser cache works.
+* **First Request:** The first time a user visits a web page, the browser downloads all the necessary resources from the web server. At the same time, the web server provides information about how the browser will cache resources, including Cache-Control headers, Expires headers, ETag, Last-Modified headers, and so on in its responses.
+* **Store Resources:** Downloaded resources are stored in the browser's cache directory. The type and duration of storage of resources is determined by header information sent from the web server.
+* **Next Request:** When a user revisits the same web page, the browser first checks to see if any resources are stored in the cache.
+    * **Cache Hit Case:** If the resources stored in the cache are valid (unexpired), the browser quickly loads web pages using the cached resources without requesting the server.
+    * **Cache Miss Case:** If no or expired resources are stored in the cache, the browser requests the web server again to download the resources and stores the new resources in the cache.
+        * The server then uses the Last-Modified or ETag header to verify that the resources have been changed and, if not, returns a 304 Not Modified status code to prevent unnecessary data transfer.
+
+![](assets/20241228_204330_image.png)
+
+**This repository distributes a Windows application that allows us to change the web browser's cache folder path.**
 
 ![](assets/20241228_204331_image.png)
 
 * [web\_browser\_cache\_folder\_changer\_setup.exe](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/web_browser_cache_folder_changer_setup.exe)
 
-This program redirects the browser's cache folder to a new folder, which is usually located on the RAM disk drive. For the technical details, refer to the following link.
+This program redirects the browser's cache folder to a new folder, which is usually located on the RAM disk drive.
 
+![](assets/20241228_204332_image.png)
+For the technical details, refer to the following link.
 * [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder)
 
 By redirecting the cache folder to a RAM disk drive,
-
 * You can run the web browser faster.
 * You can reduce IO on your disk. If you are using an SSD, this may help to increase the lifetime of it.
 
-If your RAM disk drive supports data backup and restore through the power cycle, the cache data will be persistent. Otherwise, the cache data will be lost. Even when the RAM disk drive supports data backup and restores through the power cycle, the browser cache data can be lost if a sudden power off happens.
+![](assets/20241228_204333_image.png)
+
+If your RAM disk drive supports data backup and restore through the power cycle, the cache data will be persistent.
+
+![](assets/20241228_204334_image.png)
+
+Otherwise, the cache data will be lost. Even when the RAM disk drive supports data backup and restores through the power cycle, the browser cache data can be lost if a sudden power off happens.
 
 Here are some famous RAM disk applications for Windows.
 
@@ -24,6 +45,7 @@ Here are some famous RAM disk applications for Windows.
 
 This application supports the following web browsers.
 
+![](assets/20241228_204335_image.png)
 * [Brave](https://brave.com/)
 * [Google Chrome](https://www.google.com/)
 * [Microsoft Edge](https://www.microsoft.com/edge/)
@@ -48,3 +70,6 @@ You can find the related information at the following sites.
 * [How to Change the Google Chrome Cache Location](https://www.simplehelp.net/2010/11/16/how-to-change-the-google-chrome-cache-location/)
 * [How to Change Google Chrome Cache Location in Windows](https://www.windowsdigitals.com/how-to-change-google-chrome-cache-location-in-windows-11-10/)
 * [How to Change the Google Chrome Cache Location](https://www.shareus.com/web/how-to-change-the-google-chrome-cache-location.html)
+
+# Acknowledgement
+The figures in this page are created by [Napkin.ai](https://www.napkin.ai/).
