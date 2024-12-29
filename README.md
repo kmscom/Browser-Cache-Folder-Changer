@@ -8,7 +8,7 @@
     * [Browser Cache Folder Changer 사용자 가이드](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide%20-%20KOR.md)
 * [Copyright](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/LICENSE.txt)
 
-# What does Browser Cache Folder Changer program do?
+# What does Browser Cache Folder Changer do?
 This program redirects the browser's cache folder to a new folder, which is usually located on the RAM disk drive.
 Use this application at your own risk. This application DOES NOT SUPPORT any issue caused by this program.
 
