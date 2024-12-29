@@ -1,18 +1,23 @@
-## Web Browser Cache Folder Changer
-
+# Web Browser Cache Folder Changer
 **This repository distributes a Windows application that allows us to change the web browser's cache folder path.**
 
 ![](assets/20241228_204331_image.png)
 
-* [web\_browser\_cache\_folder\_changer\_setup.exe](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/web_browser_cache_folder_changer_setup.exe)
+* User Guide
+    * [Browser Cache Folder Changer User Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide.md)
+    * [Browser Cache Folder Changer 사용자 가이드](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide%20-%20KOR.md)
+* [Copyright](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/LICENSE.txt)
 
+# What does Browser Cache Folder Changer program do?
 This program redirects the browser's cache folder to a new folder, which is usually located on the RAM disk drive.
+Use this application at your own risk. This application DOES NOT SUPPORT any issue caused by this program.
 
 ![](assets/20241228_204332_image.png)
 
 For the technical details, refer to the following link.
 * [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder)
 
+# What is web browser cache?
 Web browser cache is a mechanism that temporarily stores web page resources (HTML, CSS, JavaScript, images, etc.) on a user's computer to use stored files without re-downloading them from the server when revisiting the same web page. This improves web page loading speed, reduces network traffic, and reduces server load.
 
 ![](assets/20241228_204329_image.png)
@@ -27,9 +32,12 @@ Here is how the web browser cache works.
 
 ![](assets/20241228_204330_image.png)
 
+# Why should you change web browser's cache folder to the RAM Drive?
 By redirecting the cache folder to a RAM disk drive,
 * You can run the web browser faster.
 * You can reduce IO on your disk. If you are using an SSD, this may help to increase the lifetime of it.
+
+For more details, refer [here](https://github.com/kmscom/Browser-Cache-Folder-Changer/wiki).
 
 ![](assets/20241228_204333_image.png)
 
@@ -39,11 +47,13 @@ If your RAM disk drive supports data backup and restore through the power cycle,
 
 Otherwise, the cache data will be lost. Even when the RAM disk drive supports data backup and restores through the power cycle, the browser cache data can be lost if a sudden power off happens.
 
-Here are some famous RAM disk applications for Windows.
+# How to setup the RAM Drive at Windows?
+Here are some famous RAM disk drive applications for Windows.
 
 * [ImDisk](https://sourceforge.net/projects/imdisk-toolkit/)
 * [AMD Radeon(TM) RAMDisk](https://www.radeonramdisk.com/software_downloads.php)
 
+# What web browsers are supported by the Browser Cache Folder Changer?
 This application supports the following web browsers.
 
 ![](assets/20241228_204335_image.png)
@@ -56,15 +66,7 @@ This application supports the following web browsers.
 * [Opera GX](https://www.opera.com/gx)
 * [Vivaldi](https://vivaldi.com/)
 
-This program creates a symbolic link for the browser's cache folder to a new path, which is usually under a RAM disk drive. To create a symbolic link, an administrator privilege is required.
-
-Use this application at your own risk. This application DOES NOT SUPPORT any issue caused by this program.
-
-- [Browser Cache Folder Changer User Guide](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide.md)
-- [Browser Cache Folder Changer 사용자 가이드](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/User%20Guide/User%20Guide%20-%20KOR.md)
-
 # Relerated sites
-
 You can find the related information at the following sites.
 
 * [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder/1863614#1863614)
