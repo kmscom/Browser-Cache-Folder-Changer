@@ -1,5 +1,18 @@
 ## Web Browser Cache Folder Changer
 
+**This repository distributes a Windows application that allows us to change the web browser's cache folder path.**
+
+![](assets/20241228_204331_image.png)
+
+* [web\_browser\_cache\_folder\_changer\_setup.exe](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/web_browser_cache_folder_changer_setup.exe)
+
+This program redirects the browser's cache folder to a new folder, which is usually located on the RAM disk drive.
+
+![](assets/20241228_204332_image.png)
+
+For the technical details, refer to the following link.
+* [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder)
+
 Web browser cache is a mechanism that temporarily stores web page resources (HTML, CSS, JavaScript, images, etc.) on a user's computer to use stored files without re-downloading them from the server when revisiting the same web page. This improves web page loading speed, reduces network traffic, and reduces server load.
 
 ![](assets/20241228_204329_image.png)
@@ -13,18 +26,6 @@ Here is how the web browser cache works.
         * The server then uses the Last-Modified or ETag header to verify that the resources have been changed and, if not, returns a 304 Not Modified status code to prevent unnecessary data transfer.
 
 ![](assets/20241228_204330_image.png)
-
-**This repository distributes a Windows application that allows us to change the web browser's cache folder path.**
-
-![](assets/20241228_204331_image.png)
-
-* [web\_browser\_cache\_folder\_changer\_setup.exe](https://github.com/kmscom/Browser-Cache-Folder-Changer/blob/main/Release/web_browser_cache_folder_changer_setup.exe)
-
-This program redirects the browser's cache folder to a new folder, which is usually located on the RAM disk drive.
-
-![](assets/20241228_204332_image.png)
-For the technical details, refer to the following link.
-* [Moving Chrome cache folder?](https://superuser.com/questions/866016/moving-chrome-cache-folder)
 
 By redirecting the cache folder to a RAM disk drive,
 * You can run the web browser faster.
