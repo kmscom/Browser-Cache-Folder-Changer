@@ -1,3 +1,7 @@
+- 2025.01.01
+* Support Firefox
+* Append _{USER_ID} at the new cache folder name to support multiple users
+
 - 2024.12.29.1
 * Change "Go for DRAM shopping!" internal site list
 
