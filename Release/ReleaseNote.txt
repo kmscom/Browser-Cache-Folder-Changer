@@ -1,5 +1,5 @@
 - 2025.01.02
-* Bug-fix for Chrome (original cache folder path code had problem -> fixed)
+* Bug-fix for Chrome (original cache folder path code had a problem -> fixed)
 
 - 2025.01.01
 * Support Firefox
