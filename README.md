@@ -65,6 +65,7 @@ This application supports the following web browsers.
 * [Opera](https://www.opera.com/)
 * [Opera GX](https://www.opera.com/gx)
 * [Vivaldi](https://vivaldi.com/)
+* [Yandex Browser](https://browser.yandex.com/)
 
 # Relerated sites
 You can find the related information at the following sites.
