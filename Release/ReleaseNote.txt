@@ -1,3 +1,7 @@
+- 2025.01.04
+* Bug fix in setting custom profile name
+* Bug fix in Opera (2nd operation fails to redirect)
+
 - 2025.01.03
 * Support Yandex browser (https://browser.yandex.com/)
 
