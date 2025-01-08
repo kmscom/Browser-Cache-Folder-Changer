@@ -1,3 +1,6 @@
+- 2025.01.11
+* Add cache folder clear button
+
 - 2025.01.07
 * Fix error when Cache_Data_Backup folder already exists.
 
