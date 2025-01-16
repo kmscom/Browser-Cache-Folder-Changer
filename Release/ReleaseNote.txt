@@ -1,3 +1,6 @@
+- 2025.01.15
+* Add cache folder size info with alerting color based on the cache folder size
+
 - 2025.01.11
 * Add cache folder clear button (org and new)
 
