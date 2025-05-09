@@ -1,5 +1,10 @@
+- 2025.05.08
+* Change RAM Disk package link to AIM Toolkit (https://sourceforge.net/projects/aim-toolkit/)
+
 - 2025.01.15
 * Add cache folder size info with alerting color based on the cache folder size
+* Color warning code error is fixed
+* Add Full HD resolution support
 
 - 2025.01.11
 * Add cache folder clear button (org and new)
